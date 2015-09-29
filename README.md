@@ -69,4 +69,5 @@ Make sure your system meets these requirements:
     ```
     ipython notebook
     ```
+    
     then change directory to `iq/<some_number>` and click on `iq_<some_date>.ipynb` to start it.
