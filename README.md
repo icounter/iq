@@ -61,5 +61,12 @@ Make sure your system meets these requirements:
 ### Step 6: Download repository
 
     ```
-    git clone 
+    cd ~
+    git clone https://github.com/weiyialanchen/iq.git
     ```
+
+### Step 7: Open ipython notebook
+    ```
+    ipython notebook
+    ```
+    then change directory to `iq/<some_number>` and click on `iq_<some_date>.ipynb` to start it.
