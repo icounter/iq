@@ -26,11 +26,7 @@ Make sure your system meets these requirements:
   
   pip install numpy
   pip install scipy
-  pip install matplotlib
-  
   pip install pandas
-  pip install scikits.statsmodels
-  pip install scikit-learn
   ```
 
 ### Step 4: Install IPython notebook
@@ -42,30 +38,12 @@ Make sure your system meets these requirements:
   pip install tornado
   pip install jsonschema
   ```
-
-### Step 5: Install Github
-
-  1. Download and install the latest version of Git.
-  2. Tell Git your name so your commits will be properly labeled.
-  
-     ``` 
-     git config --global user.name "YOUR NAME" 
-     ```
      
-  3. Tell Git the email address that will be associated with your Git commits.
-  
-     ```
-     git config --global user.email "YOUR EMAIL ADDRESS"
-     ```
-     
-### Step 6: Download repository
+### Step 5: Download repository 
 
-  ```
-  cd ~
-  git clone https://github.com/weiyialanchen/iq.git
-  ```
+  Via the button on the right and unzip the zip file.
 
-### Step 7: Open ipython notebook
+### Step 6: Open ipython notebook
 
   ```
   ipython notebook
